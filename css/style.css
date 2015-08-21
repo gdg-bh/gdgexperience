@@ -547,3 +547,5 @@ footer h1 {
     -webkit-transition: all 0.4s ease;
     -webkit-filter: grayscale(0);
 }
+
+footer .codigoDeConduta{color:#fff; font-size: 26px; font-weight: 300px;}
