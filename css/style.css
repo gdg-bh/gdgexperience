@@ -530,11 +530,15 @@ footer h1 {
 
 @media (max-width: 500px) {
     .starter-template {
-		padding: 141px 0px 0px !important;
+		padding: 141px 0px 0px ;
 	}   
 	
 	.maplayer {
 		display: none;
+	}
+	
+	#logoEvento{
+		width:376px;
 	}	
 }
 
