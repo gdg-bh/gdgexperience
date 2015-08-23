@@ -530,9 +530,7 @@ footer h1 {
 
 @media (max-width: 500px) {
     .starter-template {
-		position: relative;
-		padding: 148px 0px 0px;
-		text-align: center;
+		padding: 141px 0px 0px !important;
 	}   
 	
 	.maplayer {
