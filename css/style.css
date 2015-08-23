@@ -528,6 +528,18 @@ footer h1 {
     }
 }
 
+@media (max-width: 500px) {
+    .starter-template {
+		position: relative;
+		padding: 148px 0px 0px;
+		text-align: center;
+	}   
+	
+	.maplayer {
+		display: none;
+	}	
+}
+
 .img-grayscale:hover {
     -webkit-transition: all 0.4s ease;
     -webkit-filter: grayscale(0);
