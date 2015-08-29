@@ -154,6 +154,11 @@ section h2 {
     position: relative;
     overflow: hidden;
 }
+.fotosLocal{
+	box-shadow: none;
+	background: none;
+}
+
 
 .card img{
     -webkit-transition: all 0.2s ease;
