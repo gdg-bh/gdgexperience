@@ -452,6 +452,10 @@ section.main {
     min-height: 330px;
     padding-bottom: 44px;
 }
+
+.palestrantes{
+	border-radius: 50%;
+}
 /*-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 *
 * FOOTER
