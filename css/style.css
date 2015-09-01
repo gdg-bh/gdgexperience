@@ -551,6 +551,13 @@ footer h1 {
 	}	
 }
 
+@media (max-height: 640px) {
+	.palestrantes{
+		max-height: 300px;
+		margin-left: 150px;
+	}
+}
+
 .img-grayscale:hover {
     -webkit-transition: all 0.4s ease;
     -webkit-filter: grayscale(0);
