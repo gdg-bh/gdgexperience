@@ -554,7 +554,7 @@ footer h1 {
 @media (max-height: 640px) {
 	.palestrantes{
 		max-height: 300px;
-		margin-left: 150px;
+    margin-left: 150px;
 	}
 }
 
